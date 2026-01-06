@@ -1,2 +1,2 @@
-Passion for researching, reversing, and extremely for coding.
-C++, ASM, and C# lover.
+Passion for coding, reversing. 
+PowerPC ASM, C++, C#
